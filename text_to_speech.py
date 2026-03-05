@@ -93,9 +93,9 @@ if __name__ == "__main__":
     print(f"Starting sprint: {len(chunks)} chunks found.")
 
     # 2. Execution
-    generate_audio(chunks, MALE_VOICE, "story_male")
-    generate_audio(chunks, MALE_VOICE, "story_male_new")
-    generate_audio(chunks, FEMALE_VOICE, "story_female")
-    generate_audio(chunks, FEMALE_VOICE, "story_female_new")
+    generate_audio(chunks, MALE_VOICE, "story_male.wav")
+    generate_audio(chunks, MALE_VOICE, "story_male_new.wav")
+    generate_audio(chunks, FEMALE_VOICE, "story_female.wav")
+    generate_audio(chunks, FEMALE_VOICE, "story_female_new.wav")
     
     print("🚀 Project Complete. Check the 'outputs' folder.")

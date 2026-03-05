@@ -1,0 +1,17 @@
+create specifications.md
+
+---
+
+git add, commit, push with entire checkpoints
+
+---
+
+don't commit .entire file
+
+---
+
+git add, commit, push the specifications.md
+
+---
+
+git add, commit, push the specifications.md

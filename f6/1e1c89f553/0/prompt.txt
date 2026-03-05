@@ -1,0 +1,57 @@
+create specifications.md
+
+---
+
+git add, commit, push with entire checkpoints
+
+---
+
+don't commit .entire file
+
+---
+
+git add, commit, push the specifications.md
+
+---
+
+git add, commit, push the specifications.md
+
+---
+
+ok now generate text_to_speech.py using sarvam ai https://docs.sarvam.ai/api-reference-docs/api-guides-tutorials/text-to-speech/overview......... with story "ఒక దట్టమైన అడవిలో ఒక బలమైన సింహం ఉండేది. అది ప్రతిరోజూ అడవిలోని జంతువులను వేటాడేది. ఒకరోజు ఒక చిన్న కుందేలు వంతు వచ్చింది. ఆ కుందేలు చాలా తెలివైనది. అది సింహం దగ్గరకు ఆలస్యంగా వెళ్లింది. సింహం కోపంగా ఎందుకు ఆలస్యమైందని అడిగింది. అప్పుడు కుందేలు, "రాజా, దారిలో నాకు మరొక సింహం కనిపించింది, అది మిమ్మల్ని సవాలు చేస్తోంది" అని చెప్పింది. సింహం ఆవేశంతో కుందేలును ఆ మరొక సింహం దగ్గరకు తీసుకెళ్లమని కోరింది. కుందేలు దానిని ఒక లోతైన బావి దగ్గరకు తీసుకెళ్లింది. సింహం బావిలో తన నీడను చూసి, అది మరొక సింహం అనుకుని బావిలోకి దూకి ప్రాణాలు కోల్పోయింది. కుందేలు తన తెలివితేటలతో అడవిని కాపాడింది." also include the story in readme.md. write Python script which generates audio for the story
+
+---
+
+ok now generate text_to_speech.py using sarvam ai https://docs.sarvam.ai/api-reference-docs/api-guides-tutorials/text-to-speech/overview......... with story "ఒక దట్టమైన అడవిలో ఒక బలమైన సింహం ఉండేది. అది ప్రతిరోజూ అడవిలోని జంతువులను వేటాడేది. ఒకరోజు ఒక చిన్న కుందేలు వంతు వచ్చింది. ఆ కుందేలు చాలా తెలివైనది. అది సింహం దగ్గరకు ఆలస్యంగా వెళ్లింది. సింహం కోపంగా ఎందుకు ఆలస్యమైందని అడిగింది. అప్పుడు కుందేలు, "రాజా, దారిలో నాకు మరొక సింహం కనిపించింది, అది మిమ్మల్ని సవాలు చేస్తోంది" అని చెప్పింది. సింహం ఆవేశంతో కుందేలును ఆ మరొక సింహం దగ్గరకు తీసుకెళ్లమని కోరింది. కుందేలు దానిని ఒక లోతైన బావి దగ్గరకు తీసుకెళ్లింది. సింహం బావిలో తన నీడను చూసి, అది మరొక సింహం అనుకుని బావిలోకి దూకి ప్రాణాలు కోల్పోయింది. కుందేలు తన తెలివితేటలతో అడవిని కాపాడింది." also include the story in readme.md. write Python script which generates audio for the story
+
+---
+
+ok now generate text_to_speech.py using sarvam ai https://docs.sarvam.ai/api-reference-docs/api-guides-tutorials/text-to-speech/overview......... with story "ఒక దట్టమైన అడవిలో ఒక బలమైన సింహం ఉండేది. అది ప్రతిరోజూ అడవిలోని జంతువులను వేటాడేది. ఒకరోజు ఒక చిన్న కుందేలు వంతు వచ్చింది. ఆ కుందేలు చాలా తెలివైనది. అది సింహం దగ్గరకు ఆలస్యంగా వెళ్లింది. సింహం కోపంగా ఎందుకు ఆలస్యమైందని అడిగింది. అప్పుడు కుందేలు, "రాజా, దారిలో నాకు మరొక సింహం కనిపించింది, అది మిమ్మల్ని సవాలు చేస్తోంది" అని చెప్పింది. సింహం ఆవేశంతో కుందేలును ఆ మరొక సింహం దగ్గరకు తీసుకెళ్లమని కోరింది. కుందేలు దానిని ఒక లోతైన బావి దగ్గరకు తీసుకెళ్లింది. సింహం బావిలో తన నీడను చూసి, అది మరొక సింహం అనుకుని బావిలోకి దూకి ప్రాణాలు కోల్పోయింది. కుందేలు తన తెలివితేటలతో అడవిని కాపాడింది." also include the story in readme.md. write Python script which generates audio for the story
+
+---
+
+pls verify i added
+
+---
+
+i added the changes in text_to_speech.py. pls verify if ok add to github, commit and push
+
+---
+
+i added the changes in text_to_speech.py. pls verify if ok add to github, commit and push
+
+---
+
+ok
+
+---
+
+ok
+
+---
+
+ok
+
+---
+
+ok
